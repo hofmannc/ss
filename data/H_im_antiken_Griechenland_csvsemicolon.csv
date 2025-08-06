@@ -1,0 +1,32 @@
+What is the title of the software project?;;abc
+Which research field(s) does this software belong to?;;Humanities and Social Sciences / Non-European Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies
+In which application class is the software categorised?;;Application Class 1: The software is only develop within a narrow scope. It is to be further developed and used beyond personal purposes.
+What is the intended use of the software? How will your software contribute to research?;;def
+What function does the new software have that previous software does not cover? What related software exists and why is it not suitable?;;gh
+Is there existing (financial/personnel) resources or will there be specific funding for the software development?;;Öresund Project
+When does the software project start?;;2025-07-09
+When does the software project end?;;2025-07-24
+How do you track the different tasks and use cases?;;"jkl; mno"
+Are there institutional requirements for software development?;;qrs
+Are there requirements regarding the software development form other parties?;;tuv
+Which programming language(s) do you plan to use?;;wxy
+Which technology or process is used for versioning?;;zab
+Which external software components will be used? What dependencies on software libraries do exist? How do you document this?;;cde
+Do you plan to use third party web services?;;fgh
+Does the software refer to other software projects or objects?;;ijk
+What infrastructure resources are needed? To what extent?;;lmn
+Is there already existing infrastructure for the software development? Where is the infrastructure hosted?;;opq
+Are there technical aspects where competences are (still) lacking, so that support would be helpful?;;rst
+How long should the software remain usable? What steps will be taken to ensure that the software can continue to be used after the project?;;uvw
+Does this software have to be preserved for a longer term?;;xyz
+How is software documentation created?;;abc
+Where will the software be stored? Does the storage place have a clear preservation policy?;;de
+Will this software be publicly available?;;Yes
+In which repository or archive will the software be held? How easy can it be found? What strategy is used to keep the software usable?;;ghi
+How do you assign metadata for your software?;;jk
+Do you give a persistent identifier for you software?;;Other: mno
+Do you plan to give support or help to re-users of your software?;;No
+How do you organise the support and feedback process with other users?;;pqr
+Does your Software Management Plan relate to other Software/Data Management Plans?;;stu
+What is the legal ownership of the software?;;vwx
+Under what kind of license(s) will the software be published?;;AGPL-3.0-only
