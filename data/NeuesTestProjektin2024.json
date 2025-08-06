@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is the title of the software project?",
+    "set": "",
+    "values": "Katze 2024"
+  },
+  {
+    "question": "Which research field(s) does this software belong to?",
+    "set": "",
+    "values": "Humanities and Social Sciences / Ancient Cultures"
+  },
+  {
+    "question": "In which application class is the software categorised?",
+    "set": "",
+    "values": "Application Class 3: For the software it is essential to avoid errors and to reduce risks. This applies in particular to critical software and that with product characteristics."
+  },
+  {
+    "question": "What is the intended use of the software? How will your software contribute to research?",
+    "set": "",
+    "values": "Softwaretesting"
+  },
+  {
+    "question": "What function does the new software have that previous software does not cover? What related software exists and why is it not suitable?",
+    "set": "",
+    "values": "Automatisiertes Testen"
+  },
+  {
+    "question": "Is there existing (financial/personnel) resources or will there be specific funding for the software development?",
+    "set": "",
+    "values": "ja"
+  },
+  {
+    "question": "When does the software project start?",
+    "set": "",
+    "values": "2024-09-05"
+  },
+  {
+    "question": "When does the software project end?",
+    "set": "",
+    "values": "2025-04-17"
+  },
+  {
+    "question": "Which software development process is defined? How will process roles be assigned?",
+    "set": "",
+    "values": "kl"
+  },
+  {
+    "question": "How do you track the different tasks and use cases?",
+    "set": "",
+    "values": "ko"
+  },
+  {
+    "question": "Will there be a specification document (briefly) outlining the most important requirements?",
+    "set": "",
+    "values": "Yes"
+  },
+  {
+    "question": "Are there institutional requirements for software development?",
+    "set": "",
+    "values": "hu"
+  },
+  {
+    "question": "Are there requirements regarding the software development form other parties?",
+    "set": "",
+    "values": "gz"
+  },
+  {
+    "question": "Which programming language(s) do you plan to use?",
+    "set": "",
+    "values": "A, B, C"
+  },
+  {
+    "question": "Which technology or process is used for versioning?",
+    "set": "",
+    "values": "ash"
+  },
+  {
+    "question": "Which external software components will be used? What dependencies on software libraries do exist? How do you document this?",
+    "set": "",
+    "values": "ji"
+  },
+  {
+    "question": "What licences are on the third-party software components?",
+    "set": "",
+    "values": "bbc, ard, zdf"
+  },
+  {
+    "question": "What is the process to keep track of the external software components? Can critical dependencies be eliminated or mitigated?",
+    "set": "",
+    "values": "Maven"
+  },
+  {
+    "question": "Do you plan to use third party web services?",
+    "set": "",
+    "values": "nein"
+  },
+  {
+    "question": "Does the software refer to other software projects or objects?",
+    "set": "",
+    "values": "ja"
+  },
+  {
+    "question": "What infrastructure resources are needed? To what extent?",
+    "set": "",
+    "values": "1,2,3"
+  },
+  {
+    "question": "Is there already existing infrastructure for the software development? Where is the infrastructure hosted?",
+    "set": "",
+    "values": "nein"
+  },
+  {
+    "question": "Are there technical aspects where competences are (still) lacking, so that support would be helpful?",
+    "set": "",
+    "values": "nein"
+  },
+  {
+    "question": "How long should the software remain usable? What steps will be taken to ensure that the software can continue to be used after the project?",
+    "set": "",
+    "values": "5 Jahre"
+  },
+  {
+    "question": "Does this software have to be preserved for a longer term?",
+    "set": "",
+    "values": "nein"
+  },
+  {
+    "question": "Which measures or provisions are in place to ensure software security?",
+    "set": "",
+    "values": "wenig"
+  },
+  {
+    "question": "What measures do you take to minimise risks in relation to software development?",
+    "set": "",
+    "values": "keine"
+  },
+  {
+    "question": "Do you have a governance model for the software development?",
+    "set": "",
+    "values": "nein"
+  },
+  {
+    "question": "Do you apply specific coding standards? How do you take care about code quality control?",
+    "set": "",
+    "values": "PEP 8 \u2013 Style Guide for Python Code"
+  },
+  {
+    "question": "How is software documentation created?",
+    "set": "",
+    "values": "dasd"
+  },
+  {
+    "question": "Where will the documentation be stored or made available? Which language will be used?",
+    "set": "",
+    "values": "iji"
+  },
+  {
+    "question": "Which software test strategy are you going to follow? Which types of tests are planned for the project?",
+    "set": "",
+    "values": "Unit-Testing; Integration Tests; E2E Tests; Security Testing; Functional Tests; Non-functional Tests; Performance Testing; ISTQB"
+  },
+  {
+    "question": "How is testing and test documentation organised?",
+    "set": "",
+    "values": "iuhui; uhi"
+  },
+  {
+    "question": "Are there defined release processes for the software?",
+    "set": "",
+    "values": "nein"
+  },
+  {
+    "question": "What is the decision process for releasing? How often will a software version be released?",
+    "set": "",
+    "values": "ja"
+  },
+  {
+    "question": "Where will the software be stored? Does the storage place have a clear preservation policy?",
+    "set": "",
+    "values": "nein"
+  },
+  {
+    "question": "Will this software be publicly available?",
+    "set": "",
+    "values": "Yes"
+  },
+  {
+    "question": "In which repository or archive will the software be held? How easy can it be found? What strategy is used to keep the software usable?",
+    "set": "",
+    "values": "na"
+  },
+  {
+    "question": "Will users have the possibility to contribute to your software?",
+    "set": "",
+    "values": "nein"
+  },
+  {
+    "question": "Is (Open) Peer Review planned for the software?",
+    "set": "",
+    "values": "nein"
+  },
+  {
+    "question": "How do you assign metadata for your software?",
+    "set": "",
+    "values": "Alle Links funktionieren"
+  },
+  {
+    "question": "Do you give a persistent identifier for you software?",
+    "set": "",
+    "values": "DOI: ijoijjoi"
+  },
+  {
+    "question": "Do you plan to give support or help to re-users of your software?",
+    "set": "",
+    "values": "No"
+  },
+  {
+    "question": "How do you organise the support and feedback process with other users?",
+    "set": "",
+    "values": "jio"
+  },
+  {
+    "question": "Does your Software Management Plan relate to other Software/Data Management Plans?",
+    "set": "",
+    "values": "hji"
+  },
+  {
+    "question": "Do you intend to make your software management plan publicly available (later)?",
+    "set": "",
+    "values": "No"
+  },
+  {
+    "question": "What is the legal ownership of the software?",
+    "set": "",
+    "values": "jio"
+  },
+  {
+    "question": "Does the project use and/or produce software that is protected by third party intellectual or industrial property rights?",
+    "set": "",
+    "values": "ok"
+  },
+  {
+    "question": "Under what kind of license(s) will the software be published?",
+    "set": "",
+    "values": "AGPL-3.0-only; Apache-2.0; BSD-3-Clause; CDDL-1.0; GPL-3.0-only; LGPL-3.0-only; MIT"
+  },
+  {
+    "question": "Can the software also be used for military purposes?",
+    "set": "",
+    "values": "h8hh"
+  }
+]
